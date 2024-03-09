@@ -1,4 +1,4 @@
-#Optimization in Deep Learning
+# Optimization in Deep Learning
 
 High level ideas on the concepts of gradients, first-order optimization methods, the Hessian matrix, and second-order optimization methods.
 
