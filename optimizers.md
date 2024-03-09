@@ -9,7 +9,7 @@ High level ideas on the concepts of gradients, first-order optimization methods,
 
 **Why They Matter:** Gradients are the compass for optimizing neural networks, indicating how parameters should be adjusted to minimize loss.
 
-### Practical Takeaway:
+In PyTorch its simple:
 ```python
 # In PyTorch, for example:
 loss.backward()  # Compute gradients
