@@ -13,6 +13,6 @@ Regarding specific configurations which is good to double check with them:
 - add_dummy_prefix=True: This adds a dummy space before each token, helping maintain consistency in token representation whether they occur at the beginning or in the middle of a sentence. More information is available here: (https://github.com/google/sentencepiece/blob/master/src/sentencepiece_model.proto#L256).
 
 
-I believe this is Llama2 tokenizer settings 
+This is Llama2 tokenizer settings 
 
 tokenizer setting, https://gist.github.com/HamidShojanazeri/0b92941ff1506162b54a8170d4b6a788
