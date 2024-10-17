@@ -52,7 +52,7 @@ REF:
 [6] https://www.pnas.org/doi/10.1073/pnas.2311878121
 [7] https://arxiv.org/pdf/2403.06563.pdf
 
-#**Differences between the Chinchilla and Kaplan scaling laws can be summarized as follows**:
+# **Differences between the Chinchilla and Kaplan scaling laws can be summarized as follows**:
 
 ## Parameter Scaling
 
