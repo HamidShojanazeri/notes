@@ -89,7 +89,7 @@ Chinchilla used a different optimization scheme, including cosine learning rate 
 
 ## Reconciliation
 
-Recent research suggests that the discrepancies between these laws can be largely attributed to:
+Discrepancies between these laws can be largely attributed to:
 
 1. Kaplan's focus on non-embedding parameters
 2. Kaplan's analysis of smaller-scale models
